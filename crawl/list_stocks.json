@@ -1,0 +1,170 @@
+{
+  "category": [
+    {
+      "ID": 507331,
+      "CategoryName": "Danh mục quan tâm",
+      "ListStockCode": ["MBB", "PVS", "MBS", "HCM", "STB", "VCI", "HPG"]
+    },
+    {
+      "ID": 2515151,
+      "CategoryName": "BDS",
+      "ListStockCode": [
+        "DXS",
+        "DXG",
+        "NLG",
+        "KDH",
+        "HDC",
+        "ASM",
+        "HDG",
+        "PDR",
+        "DIG",
+        "VHM",
+        "VIC",
+        "NVL"
+      ]
+    },
+    {
+      "ID": 2781907,
+      "CategoryName": "BDS - KCN",
+      "ListStockCode": ["BCM", "VGC", "SZC", "GVR", "KBC", "PHR", "IDC"]
+    },
+    {
+      "ID": 2976838,
+      "CategoryName": "Bán lẻ",
+      "ListStockCode": [
+        "HAX",
+        "PNJ",
+        "PET",
+        "VRE",
+        "VTP",
+        "VNM",
+        "MSN",
+        "FRT",
+        "MWG",
+        "DGW"
+      ]
+    },
+    {
+      "ID": 2780387,
+      "CategoryName": "Bảo Hiểm",
+      "ListStockCode": ["MIG", "BVH", "BMI"]
+    },
+    {
+      "ID": 5642635,
+      "CategoryName": "Cao su",
+      "ListStockCode": ["DRI", "DRC", "DPR", "PHR", "GVR"]
+    },
+    {
+      "ID": 538592,
+      "CategoryName": "Chứng Khoán",
+      "ListStockCode": ["VND", "VCI", "MBS", "HCM", "SHS", "SSI"]
+    },
+    {
+      "ID": 2496227,
+      "CategoryName": "Cảng Biển \u0026 Vận Tải",
+      "ListStockCode": ["SGP", "HAH", "GMD"]
+    },
+    {
+      "ID": 2496226,
+      "CategoryName": "Dầu khí",
+      "ListStockCode": ["OIL", "PLX", "GAS", "BSR", "PVT", "PVS", "CNG", "PVD"]
+    },
+    {
+      "ID": 5909534,
+      "CategoryName": "Dệt may",
+      "ListStockCode": ["GIL", "MSH", "TNG", "VGT"]
+    },
+    {
+      "ID": 531811,
+      "CategoryName": "Ngân Hàng",
+      "ListStockCode": [
+        "LPB",
+        "VIB",
+        "OCB",
+        "HDB",
+        "BID",
+        "VCB",
+        "MSB",
+        "ACB",
+        "CTG",
+        "MBB",
+        "SHB",
+        "STB",
+        "TCB",
+        "TPB",
+        "VPB"
+      ]
+    },
+    {
+      "ID": 2496229,
+      "CategoryName": "Phân Bón \u0026 Hóa chất",
+      "ListStockCode": ["DGC", "CSV", "DPM", "DCM"]
+    },
+    {
+      "ID": 2542066,
+      "CategoryName": "Thép",
+      "ListStockCode": ["NKG", "HSG", "HPG"]
+    },
+    {
+      "ID": 2496228,
+      "CategoryName": "Thủy sản",
+      "ListStockCode": ["CMX", "ANV", "ASM", "FMC", "VHC"]
+    },
+    {
+      "ID": 7697688,
+      "CategoryName": "Trụ",
+      "ListStockCode": [
+        "PDR",
+        "BVH",
+        "SAB",
+        "FPT",
+        "MBB",
+        "VPB",
+        "CTG",
+        "TCB",
+        "VNM",
+        "MWG",
+        "BID",
+        "NVL",
+        "PLX",
+        "MSN",
+        "GAS",
+        "VCB",
+        "HPG",
+        "VHM",
+        "VIC"
+      ]
+    },
+    {
+      "ID": 2542069,
+      "CategoryName": "Xây dựng",
+      "ListStockCode": ["HTN", "CTD", "LCG", "C4G", "CII", "CTR", "HBC"]
+    },
+    {
+      "ID": 4820420,
+      "CategoryName": "Điện gió",
+      "ListStockCode": ["NT2", "POW", "PC1", "FCN", "GEG", "REE", "HDG", "BCG"]
+    },
+    {
+      "ID": 4409158,
+      "CategoryName": "Đường, thực phẩm, gạo",
+      "ListStockCode": ["HAG", "TAR", "LTG", "DBC", "KDC", "PAN", "SBT"]
+    },
+    {
+      "ID": 3228805,
+      "CategoryName": "Đầu tư công",
+      "ListStockCode": [
+        "FCN",
+        "DHA",
+        "CII",
+        "VCG",
+        "HHV",
+        "KSB",
+        "LCG",
+        "BCC",
+        "HT1",
+        "PC1"
+      ]
+    }
+  ]
+}
